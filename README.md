@@ -1,4 +1,4 @@
-# 🧑‍💻 Online Job Portal
+# 🧑‍💻 Zyber-job (An online job portal)
 
 An end-to-end **Online Job Portal** connecting **job seekers** with **recruiters**.  
 Users can search, apply for jobs, and manage applications, while recruiters can post new jobs and manage candidates easily.
